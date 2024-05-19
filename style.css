@@ -1,0 +1,117 @@
+.basliq{
+    text-align: center;
+}
+.qutu{
+    width: 200px;
+    border-radius: 25px;
+    height:200px;
+    background-color: blue;
+    display: inline-block;
+    margin: 5px;
+}
+.rr{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    
+
+}
+.d{
+    display: contents;
+    align-items: center;
+    
+    width: 100%;
+
+}
+.qq{
+    width: 200px;
+    height: 240px;
+    display: inline-block;
+    margin: 5.5px;
+    
+
+    
+
+}
+.e{
+    margin-left: 7px;
+    font-size: 11px;
+    
+
+}
+.icon{
+    width: 100%;
+    height: 20px;
+    display: inline-block;
+   
+}
+.search{
+    width: 700px;
+    height: 50px;
+    border-radius: 50px;
+    
+    margin: auto;
+    display: flex;
+    
+    border-style: groove;
+    
+}
+.t{
+    width: 250px;
+    
+    height: auto;
+    
+    margin-left: 25px;
+    margin-top: -4px;
+    border-right-style:groove ;
+    
+}
+.u{
+    width: 100px;
+    height: avto    ;
+    margin-top: -4px;
+    
+    border-right-style:groove ;
+   
+    margin-left: 10px;
+}
+.b{
+    height: 15px;
+}
+#g{
+    
+    color: white;
+    border-radius: 100%;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.vb{
+    width: 45px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: rgb(231, 84, 145);
+    text-align:center;
+    align-items: center;
+    margin: 5px 7px 7px 7px;
+    
+
+}
+.o{
+    width: 180px;
+    
+    height: auto;
+    margin-left: 25px;
+    margin-top: -4px;
+
+}
+.az{
+    margin-top: 12px;
+}
+.button{
+    width: 50px;
+    height: 30px;
+    border-radius: 20px;
+    
+
+}
